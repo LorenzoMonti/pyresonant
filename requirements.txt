@@ -1,0 +1,5 @@
+aubio
+music21
+numpy
+pyaudio
+pynput
