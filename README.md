@@ -16,7 +16,7 @@ git clone https://github.com/LorenzoMonti/pyresonant.git
 cd pyresonant/
 pip3 install -r requirements.txt
 ```
-# Launch the main script
+## Launch the main script
 
 Now you can run the project:
 
@@ -26,7 +26,7 @@ python3 pyresonant.py --input 1 --mappingcsv ./example_mapping.csv
 change (or create a new one) csv file according to your needs.
 
 
-# Command Line Interface
+## CLI (command line interface)
 
 | Flag | Description |
 | --- | --- |
